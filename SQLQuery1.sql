@@ -1,3 +1,4 @@
+CREATE DATABASE;
 select *
 From PortfolioProject..CovidDeaths$
 where continent is not null
