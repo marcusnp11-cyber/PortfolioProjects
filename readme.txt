@@ -1,6 +1,5 @@
 print("Hello-World")
-
-username=marcusnp@gmail.com # Hi, I'm Marcus👋
+Hi, I'm Marcus👋
 
 builds: scalable web apps, APIs, ML systems, tools for developers. I love clean code, great UX, and turning ideas into production-ready software.
 
